@@ -1,0 +1,19 @@
+# Eclipse / WTP
+.settings/
+.classpath
+.project
+
+# Build outputs
+/build/
+bin/
+*.class
+*.log
+
+# Secrets
+db.properties
+*.properties
+.env
+
+# OS
+.DS_Store
+Thumbs.db
