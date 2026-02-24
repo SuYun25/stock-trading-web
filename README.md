@@ -156,4 +156,3 @@ CLI 환경 → Web 환경으로 재구성하는 경험을 하였습니다.
 
 This project is for educational purposes only.
 
-## 📂 프로젝트 구조
